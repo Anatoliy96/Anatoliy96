@@ -1,6 +1,7 @@
 ![MasterHead](https://mono.software/2018/02/23/c-tips/header.jpg)
 <h1 align="center">Hi 👋, I'm Anatoliy Dudiev</h1>
 <h3 align="center">A passionate C# developer from Bulgaria</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
 # 💫 About Me:
 🔭 I’m currently studying C# in Software University.<br>👯 I’m looking to collaborate with other students.<br>🤝 I’m looking for help with finding a job or internship.<br>🌱 Disciplined, responsible and team player.<br>⚡ In my free time I like to play video games, hang out with friends <br>      or travel.
