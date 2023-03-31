@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif)
+![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif](https://mono.software/2018/02/23/c-tips/header.jpg))
 # 💫 About Me:
 🔭 I’m currently studying C# in Software University.<br>👯 I’m looking to collaborate with other students.<br>🤝 I’m looking for help with finding a job or internship.<br>🌱 Disciplined, responsible and team player.<br>⚡ In my free time I like to play video games, hang out with friends <br>      or travel.
 
